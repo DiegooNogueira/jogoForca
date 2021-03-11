@@ -1,0 +1,29 @@
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.exe.config
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.exe
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.pdb
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.csprojResolveAssemblyReference.cache
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.Form1.resources
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.Properties.Resources.resources
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.csproj.GenerateResource.Cache
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.exe
+F:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.pdb
+E:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.exe.config
+E:\CURSO\CURSO-3\PC\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.exe
+G:\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.exe.config
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.exe
+G:\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.exe
+G:\prjForcaTB\prjForcaTB\bin\Debug\prjForcaTB.pdb
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.csprojResolveAssemblyReference.cache
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.Form1.resources
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.Properties.Resources.resources
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.csproj.GenerateResource.Cache
+G:\prjForcaTB\prjForcaTB\obj\Debug\prjForcaTB.pdb
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\bin\Debug\prjForcaTB.exe.config
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.exe
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.pdb
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\bin\Debug\prjForcaTB.exe
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\bin\Debug\prjForcaTB.pdb
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.csprojResolveAssemblyReference.cache
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.Form1.resources
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.Properties.Resources.resources
+E:\Terceiro ano\Curso\Desenvolvimento de software\prjAula4\prjForcaTB\obj\Debug\prjForcaTB.csproj.GenerateResource.Cache
